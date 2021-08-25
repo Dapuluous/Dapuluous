@@ -7,8 +7,8 @@ Stay tuned ✨
 
 <p align="left">
   <a href="https://github.com/Dapuluous">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dapuluous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dapuluous&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="100%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dapuluous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br><br>
+    <img width="100%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dapuluous&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
